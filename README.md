@@ -2,6 +2,8 @@
 
 A simple app with embedded WebView and key utilities to get up and running with bulding a robust application.
 
+![Alt text](./src/core/assets/screen.png "App Screenshot")
+
 ## Testing
 
 **Unit and E2E (End-to-End) Testing** for this app is done with **Jest** and **Detox**.
